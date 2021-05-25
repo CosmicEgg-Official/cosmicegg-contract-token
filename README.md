@@ -1,0 +1,1 @@
+# cosmicegg-contract-token
